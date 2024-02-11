@@ -6,3 +6,5 @@ W3C schools says to make a virtual environment for every project. Why? What is a
 
 According to docs.python.org, the virtual environment is a way of encapsulating dependencies for projects. Okay I get it. 
 
+https://www.w3schools.com/django/django_getstarted.php
+
