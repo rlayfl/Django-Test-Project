@@ -1,4 +1,4 @@
-# Django-Test-Project
+# Django Test Project
 
 ## My notes as I go through this
 
